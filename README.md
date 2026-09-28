@@ -69,4 +69,3 @@ HireReady is a simple and interactive interview preparation platform designed fo
 
 ---
 
-Developed with ❤️ by [Aditya](https://github.com/AdityAiiitl03)
